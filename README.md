@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Grace Qiyuan Miao"
-date: '2022-07-07'
-output: html_document
----
-
 ## Simple Synchrony Simulations
 
 This repository contains the code for a model by Miao, Dale & Galati (2022). It is a simplified linear model to describe dynamics o synchrony and complementariy and explore the task-dependence in dyadic interactions. The directory contains three R files: 
