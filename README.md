@@ -1,6 +1,6 @@
 ## Simple Synchrony Simulations
 
-This repository contains the code for a model by Miao, Dale & Galati (2022). It is a simplified linear framework that describes dynamics of synchrony and complementarity, and explores the task-dependence in dyadic interactions. 
+This repository contains the code for a model by Miao, Dale & Galati (2023), and includes code from the pre-print Miao, Dale & Galati (2022). It is a simplified linear framework that describes dynamics of synchrony and complementarity, and explores the task-dependence in dyadic interactions. 
 
 The directory contains three R files: 
 
